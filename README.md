@@ -8,7 +8,7 @@ Veja a planilha:
 
   <p align="center">
 <img 
-    src="./assets/planilha-inteligente.png"
+    src="./images/planilha-inteligente.png"
     width="100"
 />
 </p>
