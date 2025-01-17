@@ -35,8 +35,7 @@ Veja a planilha: [Planilha](https://docs.google.com/spreadsheets/d/1F3ZvlTvGnLzE
 
 ## 🚀 Resultados
 
-Veja a planilha: 
-- [Planilha](https://docs.google.com/spreadsheets/d/1F3ZvlTvGnLzEr86_hA3ctDniyT7-MJCmKlX05UjrYdY/edit?usp=sharing)
+Veja a planilha: [Planilha](https://docs.google.com/spreadsheets/d/1F3ZvlTvGnLzEr86_hA3ctDniyT7-MJCmKlX05UjrYdY/edit?usp=sharing)
 
 ## 👨‍💻 Autoria
 
