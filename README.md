@@ -31,10 +31,9 @@ Projeto com o objetivo de criar uma planilha de gestão financeira para facilita
 - Google Sheets: Para criar a base de dados e dashboard
 
 - Aba "Data": Registro de entradas e saídas financeiras.
-- Aba "Controller": Criação de Tabelas Dinâmicas para análise de Entradas e Gastos.
+- Aba "Controller": Criação de Tabelas Dinâmicas para organização dos dados de Entradas e Gastos.
 - Aba "Caixinha": Criação de Tabela com registros dos depósitos e comparativo com meta de gasto para o gráfico Economias.
-- Dashboard interativo: exibe gráficos e tabelas dinâmicas gerados a partir dos dados inseridos, permitindo uma visão clara e detalhada das finanças.
-  
+- Dashboard interativo: Exibe gráficos interativos, a partir dos dados inseridos, permitindo uma visão clara e detalhada das finanças.
 
 ## 🚀 Resultados
 
