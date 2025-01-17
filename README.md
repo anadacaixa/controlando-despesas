@@ -9,7 +9,7 @@ Veja a planilha:
   <p align="center">
 <img 
     src="./images/planilha-inteligente.png"
-    width="300"
+    width="1000"
 />
 </p>
 
