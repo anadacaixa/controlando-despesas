@@ -18,7 +18,7 @@ Veja a planilha:
 
 ## 📒 Descrição
 
-Projeto com o objetivo de criar uma planilha de gestão financeira para facilitar análises inteligentes com o uso de IA generativa
+Projeto com o objetivo de criar uma planilha de gestão financeira para facilitar análises inteligentes com o uso de IA generativa.
 
 ## 💻 Tecnologias utilizadas no projeto
 
