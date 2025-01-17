@@ -7,8 +7,7 @@
 
 Projeto com o objetivo de criar uma planilha de gestão financeira para facilitar análises inteligentes com o uso de IA generativa.
 
-Veja a planilha: 
-- [Planilha](https://docs.google.com/spreadsheets/d/1F3ZvlTvGnLzEr86_hA3ctDniyT7-MJCmKlX05UjrYdY/edit?usp=sharing)
+Veja a planilha: [Planilha](https://docs.google.com/spreadsheets/d/1F3ZvlTvGnLzEr86_hA3ctDniyT7-MJCmKlX05UjrYdY/edit?usp=sharing)
 
   <p align="center">
 <img 
