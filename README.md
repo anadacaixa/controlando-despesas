@@ -1,11 +1,11 @@
 # Projeto IA Generativa
 ## Planilha Financeira Inteligente"
 
- > ℹ️ **NOTA**: Este projeto foi criado para o bootcamp DIO "CAIXA - IA Generativa com Microsoft Copilot".
+ > ℹ️ **NOTA**: Este projeto foi baseado no projeto de Thais e foi criado para o bootcamp DIO "CAIXA - IA Generativa com Microsoft Copilot".
 
 ## 📒 Descrição
 
-Projeto com o objetivo de criar uma planilha de gestão financeira para facilitar análises inteligentes com o uso de IA generativa.
+Projeto com o objetivo de atender ao desafio de capacitar pessoas a melhorarem o controle de suas finanças usando planilhas inteligentes e recursos de Inteligência Artificial para monitorar gastos, categorizar despesas e estabelecer metas de economia. As planilhas oferecem uma visão prática e personalizada, ajudando cada pessoa a tomar decisões financeiras mais informadas e eficientes.
 
 Veja a planilha: [Planilha](https://docs.google.com/spreadsheets/d/1F3ZvlTvGnLzEr86_hA3ctDniyT7-MJCmKlX05UjrYdY/edit?usp=sharing)
 
