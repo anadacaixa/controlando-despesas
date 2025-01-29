@@ -9,14 +9,6 @@ Projeto com o objetivo de atender ao desafio de uso do excel para o controle de 
 
 Minha planilha está anexada a esse texto. 
 
-  <p align="center">
-<img 
-    src="./images/planilha-inteligente.png"
-    width="1000"
-/>
-</p>
-
-<p align="center">
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -40,7 +32,7 @@ Veja a planilha anexada
 ## 👨‍💻 Autoria
 
 <p>
-   
+ Ana da CAIXA   
 
 ---
 
