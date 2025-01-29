@@ -5,9 +5,9 @@
 
 ## 📒 Descrição
 
-Projeto com o objetivo de atender ao desafio de capacitar pessoas a melhorarem o controle de suas finanças usando planilhas inteligentes e recursos de Inteligência Artificial para monitorar gastos, categorizar despesas e estabelecer metas de economia. As planilhas oferecem uma visão prática e personalizada, ajudando cada pessoa a tomar decisões financeiras mais informadas e eficientes.
+Projeto com o objetivo de atender ao desafio de uso do excel para o controle de finanças pessoais, para monitorar gastos, categorizar despesas e estabelecer análises visuais mais simples
 
-Veja a planilha: [Planilha](https://docs.google.com/spreadsheets/d/1F3ZvlTvGnLzEr86_hA3ctDniyT7-MJCmKlX05UjrYdY/edit?usp=sharing)
+Minha planilha está anexada a esse texto. 
 
   <p align="center">
 <img 
@@ -20,13 +20,13 @@ Veja a planilha: [Planilha](https://docs.google.com/spreadsheets/d/1F3ZvlTvGnLzE
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [Google Sheets](https://docs.google.com/spreadsheets)
-- [ChatGPT](https://chat.openai.com/) 
+- Excel para elaboração de planilha
+- Imagem capturada no freepik
 
 ## 🧐 Processo de Criação
 
-- ChatGPT: Para realizar análises inteligentes
-- Google Sheets: Para criar a base de dados e dashboard
+- Acompanhamento da aula 
+- Excel para reproduzir a base de dados e relizar o dashboard
 
 - Aba "Data": Registro de entradas e saídas financeiras.
 - Aba "Controller": Criação de Tabelas Dinâmicas para organização dos dados de Entradas e Gastos.
@@ -35,38 +35,13 @@ Veja a planilha: [Planilha](https://docs.google.com/spreadsheets/d/1F3ZvlTvGnLzE
 
 ## 🚀 Resultados
 
-Veja a planilha: [Planilha](https://docs.google.com/spreadsheets/d/1F3ZvlTvGnLzEr86_hA3ctDniyT7-MJCmKlX05UjrYdY/edit?usp=sharing)
+Veja a planilha anexada
 
 ## 👨‍💻 Autoria
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=100 
-      src="/images/thaisa-guio.png"
-    />
-    <p>&nbsp&nbsp&nbspThaisa Guio<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/thaisaguio">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.linkedin.com/thaisa-guio/">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/thaisaguio">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+   
 
 ---
 
-⌨️ com 💜 por [Thaisa Guio](https://github.com/thaisaguio)
+⌨️ com 💜 
